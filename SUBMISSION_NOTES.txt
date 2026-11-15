@@ -1,0 +1,109 @@
+NASA SPACE APPS 2026 - FINAL SUBMISSION NOTES
+Team: Polaris Path
+Challenge: Lunar Landing Site Navigator
+Deadline: tonight, 15 Nov, 11:59 pm (local time). Click "Submit for Judging" - a draft is NOT a submission.
+
+==================================================
+1. PROJECT NAME
+==================================================
+Eternal Dawn – Lunar Landing Site Navigator
+
+==================================================
+2. SUMMARY (50-200 words)
+==================================================
+Eternal Dawn is an interactive, browser-based tool that helps mission planners and students choose safe Moon landing sites in seconds. For any site and landing date, it shows where the Sun and Earth sit in the local sky, hour by hour, using real NASA JPL DE421 ephemeris data for 2027–2028. This answers the two questions that decide a lunar surface mission: will the lander get sunlight for power, and will it see Earth for direct radio contact?
+
+Users can compare 16 landing sites side by side, explore a 3D Moon with the live Earth–Moon distance, and browse an atlas of 11 real rovers with the distances they drove. We also designed PP-1 Polaris Prospector, a concept sample-collection rover, and built Lunar Stone Run, a playable game where users drive PP-1, collect and measure Moon stones, and contribute to a fleet goal.
+
+This matters for Artemis and other south-pole missions, where low Sun angles, long shadows and limited Earth visibility make landing-site choice critical. Eternal Dawn turns complex orbital data into clear visuals anyone can use, with no installation or login.
+
+==================================================
+3. LINKS
+==================================================
+Project Demo (30-sec video):
+https://youtu.be/jFDBcngQbZk
+
+Final Project (live app):
+https://htmlpreview.github.io/?https://github.com/designlabx13-coder/eternal-dawn-/blob/main/index.html
+
+Source code:
+https://github.com/designlabx13-coder/eternal-dawn-
+
+Full package (zip):
+https://github.com/designlabx13-coder/eternal-dawn-/raw/main/downloads/polaris_path_submission.zip
+
+All links page:
+https://htmlpreview.github.io/?https://github.com/designlabx13-coder/eternal-dawn-/blob/main/links.html
+
+==================================================
+4. ADD AT THE END OF THE DETAILED DESCRIPTION
+==================================================
+Validation: Eternal Dawn runs five live checks on the NASA JPL DE421 data (Earth–Moon distance range, maximum Sun elevation at the south pole, far-side Earth visibility, 29.53-day synodic period, libration) and all five pass. A Methods panel states clearly what is real (Sun/Earth ephemeris), approximate (generic horizon masks) and simulated (game terrain, PP-1 estimates).
+
+Impact and next steps: Landing-site choice decides whether a lander gets power and radio contact. Next we will add NASA LRO LOLA terrain for true horizon masks, slope and permanently-shadowed-region hazard scoring, so mission teams, CLPS companies and students can shortlist safe sites in seconds.
+
+Scan to play: the QR code in our portfolio opens the live app on any phone.
+Source code: https://github.com/designlabx13-coder/eternal-dawn-
+Full package: https://github.com/designlabx13-coder/eternal-dawn-/raw/main/downloads/polaris_path_submission.zip
+
+==================================================
+5. NASA DATA
+==================================================
+NASA JPL DE421 planetary ephemeris (Sun, Earth and Moon positions and lunar librations), processed with jplephem every 2 hours for 2027–2028. Landing-site coordinates from published NASA, ISRO, CNSA, JAXA and CLPS mission records. Historic rover distances from public mission data.
+
+==================================================
+6. OTHER REFERENCES AND TOOLS
+==================================================
+three.js (MIT licence) for 3D rendering. Rover design inspired by public NASA/JPL research on rocker-bogie suspension, superelastic tires, metal-tile wheels and microspine grippers; all PP-1 parts are our own original 3D models.
+
+==================================================
+7. USE OF AI
+==================================================
+AI-assisted (Claude by Anthropic) for coding, design iteration, text drafting and video assembly. All images and videos carry an "AI-assisted (Claude)" watermark. The team directed the concept, design and final decisions.
+
+==================================================
+8. TAGS
+==================================================
+Moon, Lunar, Landing site, Rover, Artemis, South pole, Visualization, Game, Ephemeris
+
+==================================================
+9. IMAGES FOR THE PROJECT PAGE (JPG/PNG, under 10 MB each)
+==================================================
+- banner.png
+- qr_card_eternal_dawn.png
+- 2-3 screenshots from the zip (home, planner, game)
+
+==================================================
+10. YOUTUBE DESCRIPTION
+==================================================
+Eternal Dawn helps mission planners pick safe Moon landing sites in seconds, using real Sun and Earth positions from NASA JPL DE421 data for 2027–2028.
+
+What it does
+- Shows where the Sun and Earth are in the sky from any lunar site, hour by hour
+- Compares landing sites side by side (sunlight, Earth view for radio contact)
+- 3D Moon with the live Earth–Moon distance
+- Atlas of real rovers with the distance each one travelled
+- PP-1 Polaris Prospector, our concept rover: 6 wheels, microspine gripper, front stone cage, rear drill
+- Lunar Stone Run: a playable game where you collect and measure Moon stones (works on mobile)
+
+Try it live (no login): https://htmlpreview.github.io/?https://github.com/designlabx13-coder/eternal-dawn-/blob/main/index.html
+Source code: https://github.com/designlabx13-coder/eternal-dawn-
+
+Challenge: Lunar Landing Site Navigator – NASA Space Apps Challenge 2026
+Team: Polaris Path
+
+Data: NASA JPL DE421 ephemeris. 3D: three.js (MIT).
+AI-assisted (Claude). Not endorsed by NASA.
+
+#NASASpaceApps #SpaceApps2026 #Moon #Artemis #LunarRover #SpaceTech
+
+==================================================
+CHECK BEFORE YOU CLICK SUBMIT
+==================================================
+[ ] YouTube video set to Public or Unlisted
+[ ] Video and app links open in an incognito window without login
+[ ] All form sections show "Complete"
+[ ] Click "Submit for Judging" and see the confirmation
+
+Optional: GitHub Settings > Pages > main / (root) > Save
+for the short link: https://designlabx13-coder.github.io/eternal-dawn-/
