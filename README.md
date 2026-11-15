@@ -1,4 +1,7 @@
 # Eternal Dawn: Lunar Landing Site Navigator
+
+▶ **Demo video:** https://youtu.be/jFDBcngQbZk  
+🚀 **Live app:** https://designlabx13-coder.github.io/eternal-dawn-/
 **Team Polaris Path · NASA Space Apps Challenge 2026 · Challenge: Lunar Landing Site Navigator**
 
 Eternal Dawn helps mission planners, educators and the public compare lunar landing sites and dates in seconds. It shows where the Sun and Earth sit over each site's horizon, and what that means for solar power and direct-to-Earth communication.

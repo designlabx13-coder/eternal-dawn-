@@ -11,7 +11,7 @@ Eternal Dawn: Lunar Landing Site Navigator
 Eternal Dawn is a free browser tool that lets mission planners, educators and the public compare lunar landing sites and dates in seconds. Pick a site (Apollo 11, Chandrayaan-3, Chang'e, SLIM, CLPS landers or the south pole) or type any coordinates, choose a date, and see where the Sun and Earth sit over that site's horizon, how long until sunset and Earthset, and how much of the mission has solar power and a direct radio link to Earth, ending in a clear GO / NO-GO score. A launch-slip slider shows instantly how a schedule change affects feasibility, and every site can be compared side by side. This matters because at the lunar south pole the Sun barely clears the horizon, so a few days or a few kilometres can decide whether a mission survives. To make the problem tangible for students, the app also includes a 3D Moon, an atlas of every lunar rover, and a playable rover game (PP-1 Polaris Prospector) that lands at any analysed site under its real Sun angle.
 
 ## Link to Project Demo
-[YouTube link to polaris_path_demo_30s.mp4 — 28 s, public or unlisted]
+https://youtu.be/jFDBcngQbZk
 
 ## Link to Final Project
 App: [https://<username>.github.io/eternal-dawn/ or Netlify link]
