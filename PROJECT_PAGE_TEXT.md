@@ -16,7 +16,6 @@ https://youtu.be/jFDBcngQbZk
 ## Link to Final Project
 App: [https://<username>.github.io/eternal-dawn/ or Netlify link]
 Code: [https://github.com/<username>/eternal-dawn]
-Extended 3-minute walkthrough: [YouTube link to polaris_path_walkthrough_3min.mp4]
 
 ## Detailed Project Description
 **What it does**
