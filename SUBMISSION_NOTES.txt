@@ -1,7 +1,6 @@
 NASA SPACE APPS 2026 - FINAL SUBMISSION NOTES
 Team: Polaris Path
 Challenge: Lunar Landing Site Navigator
-Deadline: tonight, 15 Nov, 11:59 pm (local time). Click "Submit for Judging" - a draft is NOT a submission.
 
 ==================================================
 1. PROJECT NAME
@@ -26,14 +25,9 @@ https://youtu.be/jFDBcngQbZk
 Final Project (live app):
 https://htmlpreview.github.io/?https://github.com/designlabx13-coder/eternal-dawn-/blob/main/index.html
 
-Source code:
-https://github.com/designlabx13-coder/eternal-dawn-
-
 Full package (zip):
 https://github.com/designlabx13-coder/eternal-dawn-/raw/main/downloads/polaris_path_submission.zip
 
-All links page:
-https://htmlpreview.github.io/?https://github.com/designlabx13-coder/eternal-dawn-/blob/main/links.html
 
 ==================================================
 4. ADD AT THE END OF THE DETAILED DESCRIPTION
@@ -43,7 +37,7 @@ Validation: Eternal Dawn runs five live checks on the NASA JPL DE421 data (Earth
 Impact and next steps: Landing-site choice decides whether a lander gets power and radio contact. Next we will add NASA LRO LOLA terrain for true horizon masks, slope and permanently-shadowed-region hazard scoring, so mission teams, CLPS companies and students can shortlist safe sites in seconds.
 
 Scan to play: the QR code in our portfolio opens the live app on any phone.
-Source code: https://github.com/designlabx13-coder/eternal-dawn-
+
 Full package: https://github.com/designlabx13-coder/eternal-dawn-/raw/main/downloads/polaris_path_submission.zip
 
 ==================================================
@@ -87,7 +81,6 @@ What it does
 - Lunar Stone Run: a playable game where you collect and measure Moon stones (works on mobile)
 
 Try it live (no login): https://htmlpreview.github.io/?https://github.com/designlabx13-coder/eternal-dawn-/blob/main/index.html
-Source code: https://github.com/designlabx13-coder/eternal-dawn-
 
 Challenge: Lunar Landing Site Navigator – NASA Space Apps Challenge 2026
 Team: Polaris Path
@@ -97,13 +90,3 @@ AI-assisted (Claude). Not endorsed by NASA.
 
 #NASASpaceApps #SpaceApps2026 #Moon #Artemis #LunarRover #SpaceTech
 
-==================================================
-CHECK BEFORE YOU CLICK SUBMIT
-==================================================
-[ ] YouTube video set to Public or Unlisted
-[ ] Video and app links open in an incognito window without login
-[ ] All form sections show "Complete"
-[ ] Click "Submit for Judging" and see the confirmation
-
-Optional: GitHub Settings > Pages > main / (root) > Save
-for the short link: https://designlabx13-coder.github.io/eternal-dawn-/
